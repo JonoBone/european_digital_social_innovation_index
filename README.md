@@ -12,7 +12,7 @@ For more information about the EDSII, including a detailed methodology, discussi
 
 ## How to run the notebook
 
-This notebook is designed to be run in Jupyter Notebook. For a tutorial on how to install Jupyter notebook see here: https://jupyter.org/install.  
+This notebook is designed to be run in Jupyter Notebook. For a tutorial on how to install Jupyter Notebook see here: https://jupyter.org/install.  
 
 Before running install the following requirements:
 
