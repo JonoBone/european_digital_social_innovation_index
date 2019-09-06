@@ -7,7 +7,7 @@ For more information about the EDSII, including a detailed methodology, discussi
 ## Data
 
 * input data: https://www.nesta.org.uk/documents/1395/Downloadable_data_EDSII.xlsx
-* output data: Index Scores(https://www.nesta.org.uk/documents/1506/Index_Score.csv); Theme Scores(https://www.nesta.org.uk/documents/1505/Theme_Scores.csv)
+* output data: Index Scores (https://www.nesta.org.uk/documents/1506/Index_Score.csv); Theme Scores (https://www.nesta.org.uk/documents/1505/Theme_Scores.csv)
 * notebook: https://github.com/nestauk/european_digital_social_innovation_index/blob/master/edsii_construction_notebook.ipynb
 
 ## How to run the notebook
